@@ -1,6 +1,6 @@
 # Awan Tools — Plugin System
 
-**Repository:** [github.com/ShamrouzAwan/awan-tools-plugins](https://github.com/ShamrouzAwan/awan-tools-plugins)  
+**Repository:** [github.com/ShamrouzAwan/awan-tools-plugins](https://github.com/ShamrouzAwan/php-toolkit)  
 **Platform:** [awantools.site](https://awantools.site)  
 **Developer:** Shamrouz Awan
 
